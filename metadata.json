@@ -1,0 +1,7 @@
+{
+  "name": "Cereon AI",
+  "description": "Tayab Nafis (10xTN) inspired 'Relatable Dominator' assistant for high-energy study tips, sharp explanations, and goal crushing, created by Tayab Nafis (10xTN).",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
